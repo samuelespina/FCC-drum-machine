@@ -1,0 +1,19 @@
+.drum-pad {
+  background-color: #d8572a;
+  width: 2.2rem;
+  aspect-ratio: 1/1;
+  border-radius: 5px;
+  margin: 1rem;
+  position: relative;
+  transition: all 1s ease-in-out;
+  cursor: pointer;
+  border: 3px solid #780116;
+}
+
+.drum-pad:hover {
+  top: -4px;
+}
+
+.change-color-onkey {
+  background-color: #f7b538;
+}
